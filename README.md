@@ -1,1 +1,1 @@
-# POO_ControleRemoto
+Exercitando Encapsulamento e Abstração na POO
